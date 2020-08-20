@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 def speak_to_grandma
 if "I LOVE YOU GRANDMA"
-  return "I LOVE YOU PUMPKIN!"
+  puts "I LOVE YOU PUMPKIN!"
 end   
   
 end 
